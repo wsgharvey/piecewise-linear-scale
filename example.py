@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-import scale   # adds piecewise-linear scale to matplotlib
+import piecewise_scale   # adds piecewise-linear scale to matplotlib
 
 
 x = np.arange(-1, 11, 0.01)
